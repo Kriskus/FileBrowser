@@ -1,0 +1,30 @@
+{
+
+    "Directory":[
+        {
+            "OpenDirectory":1,
+            "TotalCMD":{
+                "Checked":1,
+                "WindowLeft":1
+            },
+            "Windows":{
+                "Checked":0
+            }
+        }
+    ],
+    "Fonts":[
+        {
+            "SearchFont":{
+                "FontSize":10,
+                "FontBold":0,
+                "FontItalic":0
+            },
+            "ListFont":{
+                "FontSize":10,
+                "FontBold":0,
+                "FontItalic":0
+            }
+        }
+    ]
+
+}
